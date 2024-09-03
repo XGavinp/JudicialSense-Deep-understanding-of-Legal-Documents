@@ -1,40 +1,40 @@
 {
     "0": [
         {
-            "text": "UNION DENTAL CORP.,",
-            "probability": 0.4897991983301492,
-            "start_logit": 3.7121334075927734,
-            "end_logit": 3.7794039249420166
+            "text": "January 11, 2018",
+            "probability": 0.6632020579631547,
+            "start_logit": 8.352889060974121,
+            "end_logit": 8.580249786376953
         },
         {
-            "text": "Dr. George D. Green (the \"Business Affiliate\") and UNION DENTAL CORP.,",
-            "probability": 0.12155245885145,
-            "start_logit": 2.318483829498291,
-            "end_logit": 3.7794039249420166
+            "text": "Jan. 11, 2018",
+            "probability": 0.2985889645471488,
+            "start_logit": 7.858722686767578,
+            "end_logit": 8.27640438079834
         },
         {
-            "text": "UNION DENTAL CORP., a Florida corporation (\"UDC\")",
-            "probability": 0.11937644550011438,
-            "start_logit": 3.7121334075927734,
-            "end_logit": 2.367690324783325
+            "text": "Jan. 11, 2018 Source: FREECOOK, S-1, 6/5/2018 By Company: /s/ Mitchell Vitalis Date: Jan. 11, 2018",
+            "probability": 0.03470816609642821,
+            "start_logit": 7.858722686767578,
+            "end_logit": 6.124311447143555
         },
         {
-            "text": "UNION DENTAL CORP., a Florida corporation (\"UDC\") (collectively, Business Affiliate and UDC may be referred to collectively as the \"Parties\" and singularly as a (\"Party\").",
-            "probability": 0.1042962767603354,
-            "start_logit": 3.7121334075927734,
-            "end_logit": 2.2326440811157227
+            "text": "Date: Jan. 11, 2018",
+            "probability": 0.0025725122890337703,
+            "start_logit": 3.1045377254486084,
+            "end_logit": 8.27640438079834
         },
         {
-            "text": "(collectively, Business Affiliate and UDC may be referred to collectively as the \"Parties\" and singularly as a (\"Party\").",
-            "probability": 0.09915726624490605,
-            "start_logit": 3.661604881286621,
-            "end_logit": 2.2326440811157227
+            "text": "January 11, 2018 by and between Natalija Tunevic, director of FreeCook (hereinafter referred to as \"Client\") and Mitchell Vitalis, director of Mitchell's Web Advance, PLC (hereinafter referred to as \"Company\"). 1. Website Design and Development. Client agrees to pay to Company the sum of $5,000 (the \"Contract Price\") to design and develop a website for Client (the \"Client Website\") in accordance with the accompanying Scope of Work, attached to this Agreement as Exhibit A. (a) Change Orders. Any changes to the Scope of Work following the execution of this Agreement requiring Additional Work must be submitted to and accepted by Company in writing as a \"Change Order\". The costs of any such changes shall be added to the Contract Price. Additional Work shall be defined as the addition or revision of pages, graphics, or other features, any text, graphic or page design or programming requiring more than two rounds of textual or graphical revisions, substantial revisions to text and/or content provided by Client, changes to elements which have been finalized, or significant changes in the Scope of Work. (b) Due Dates and Delays. Company will use its best efforts to deliver the Client Website in the time frame specified in the Scope of Work. Terms of the project: 12 weeks from February 8, 2018 to May 3, 2018.",
+            "probability": 0.0009250566374892664,
+            "start_logit": 8.352889060974121,
+            "end_logit": 2.005269765853882
         },
         {
             "text": "",
-            "probability": 0.0658183543130449,
-            "start_logit": 2.936718463897705,
-            "end_logit": 2.547722101211548
+            "probability": 3.24246674522406e-06,
+            "start_logit": 2.491285800933838,
+            "end_logit": 2.2133524417877197
         }
     ]
 }

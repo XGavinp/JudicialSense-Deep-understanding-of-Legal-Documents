@@ -2,20 +2,18 @@ import { useEffect, useState } from 'react';
 import { NavBar } from '../components/navbar';
 import axios from 'axios';
 import AccessDenied from '../components/access-denied';
-import { useSession } from 'next-auth/react';
 
 const FileUpload: React.FC = () => {
   const [selectedResponse, setSelectedResponse] = useState<string>('');
   const [questions, setQuestions] = useState([]);
   const [selectedQuestion, setSelectedQuestion] = useState('');
-  const { data: session, status } = useSession();
   useEffect(() => {
     fetchQuestions();
   }, []);
 
   const fetchQuestions = async () => {
     try {
-      const response = await fetch('http://127.0.0.1:5000/questionsshort'); // Replace with your Flask API endpoint
+      const response = await fetch('http://127.0.0.1:5000'); // Replace with your Flask API endpoint
       const data = await response.json();
       console.log(data);
       setQuestions(data);
@@ -91,12 +89,6 @@ data.forEach((res: { answer: any; analyse: any }) => {
         .catch((error) => console.log(error));
     }
   };
-  if(status === "unauthenticated") {
-    return (
-        <>{status}
-        <AccessDenied /></>
-    )
-}
   return (
     < >
     
