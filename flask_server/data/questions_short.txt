@@ -1,51 +1,51 @@
-Question 1: What is the contract name?
-Question 2: Who are the parties that signed the contract?
-Question 3: What is the agreement date of the contract?
-Question 4: What is the date when the contract is effective?
-Question 5: What date will the contract's initial term expire?
-Question 6: What is the renewal term after the initial term expires?
-Question 7: What is the notice period required to terminate renewal?
-Question 8: Which state/country's law governs the interpretation of the contract?
-Question 9: What happens if a third party gets better terms in the contract?
-Question 10: What is the restriction on the ability of a party to compete with the counterparty?
-Question 11: Is there an exclusive dealing commitment with the counterparty?
-Question 12: Is a party restricted from contracting or soliciting customers?
-Question 13: What are the competitive restriction exceptions in the contract?
-Question 14: Is there a restriction on a party’s soliciting or hiring employees?
-Question 15: Is there a requirement on a party not to disparage the counterparty?
-Question 16: Can a party terminate this contract without cause?
-Question 17: What are the terms granting for right of first refusal, first offer, or negotiation?
-Question 18: What are the terms about right of termination?
-Question 19: Is consent or notice required of a party if the contract is assigned to a third party?
-Question 20: What are the terms for revenue and profit sharing?
-Question 21: What are the restrictions to raise or reduce prices of technology, goods, or services provided?
-Question 22: Is there a minimum order size or minimum amount or units per-time period?
-Question 23: What are the volume restrictions if one party’s use of the product/services exceeds certain threshold?
-Question 24: What are the terms about intellectual property created by one party?
-Question 25: What terms are related to joint IP ownership?
-Question 26: Does the contract contain a license granted by one party to its counterparty?
-Question 27: Does the contract limit the ability of a party to transfer the license being granted to a third party?
-Question 28: Does the contract contain a license grant by affiliates of the licensor?
-Question 29: Does the contract contain a license grant to a licensee?
-Question 30: Is there a clause granting one party an “enterprise,” “all you can eat” or unlimited usage license?
-Question 31: Does the contract contain a license grant that is irrevocable or perpetual?
-Question 32: Is one party required to deposit its source code into escrow with a third party?
-Question 33: Is a party subject to obligations after the termination or expiration of a contract?
-Question 34: Does a party have the right to audit the books, records, or physical locations of the counterparty?
-Question 35: Is a party’s liability uncapped upon the breach of its obligation in the contract?
-Question 36: Does the contract include a cap on liability upon the breach of a party’s obligation?
-Question 37: What clauses would either award either party liquidated damages for breach?
-Question 38: What is the duration of any warranty against defects or errors in technology, products, or services?
-Question 39: What are the requirements for insurance that must be maintained?
-Question 40: What sections describe the covenant not to sue?
-Question 41: What clauses relate to third-party beneficiaries?
-Question 42: What clauses specify the obligations regarding confidentiality of information?
-Question 43: What provisions outline circumstances under which a party may be excused from performance due to force majeure events?
-Question 44: Are there clauses that require one party to indemnify the other for losses arising from specific actions or omissions?
-Question 45: What language governs the interpretation of the contract, and are there any clauses specifying translations or conflicts?
-Question 46: Are there conditions under which either party can terminate the contract, and what are the required notice periods?
-Question 47: What are the terms regarding payment amounts, due dates, and penalties for late payments?
-Question 48: Are there clauses that specify how disputes will be resolved (arbitration, mediation, litigation) and the venue for such disputes?
-Question 49: Are there procedures outlined for making changes or amendments to the contract?
-Question 50: If any provision of the contract is found to be unenforceable, does the contract specify that the remaining provisions will continue to be valid?
-Question 51: Is there a clause stating that the written contract represents the entire agreement between the parties?
+What is the contract name?
+Who are the parties that signed the contract?
+What is the agreement date of the contract?
+What is the date when the contract is effective?
+What date will the contract's initial term expire?
+What is the renewal term after the initial term expires?
+What is the notice period required to terminate renewal?
+Which state/country's law governs the interpretation of the contract?
+What happens if a third party gets better terms in the contract?
+What is the restriction on the ability of a party to compete with the counterparty?
+Is there an exclusive dealing commitment with the counterparty?
+Is a party restricted from contracting or soliciting customers?
+What are the competitive restriction exceptions in the contract?
+Is there a restriction on a party’s soliciting or hiring employees?
+Is there a requirement on a party not to disparage the counterparty?
+Can a party terminate this contract without cause?
+What are the terms granting for right of first refusal, first offer, or negotiation?
+What are the terms about right of termination?
+Is consent or notice required of a party if the contract is assigned to a third party?
+What are the terms for revenue and profit sharing?
+What are the restrictions to raise or reduce prices of technology, goods, or services provided?
+Is there a minimum order size or minimum amount or units per-time period?
+What are the volume restrictions if one party’s use of the product/services exceeds certain threshold?
+What are the terms about intellectual property created by one party?
+What terms are related to joint IP ownership?
+Does the contract contain a license granted by one party to its counterparty?
+Does the contract limit the ability of a party to transfer the license being granted to a third party?
+Does the contract contain a license grant by affiliates of the licensor?
+Does the contract contain a license grant to a licensee?
+Is there a clause granting one party an “enterprise,” “all you can eat” or unlimited usage license?
+Does the contract contain a license grant that is irrevocable or perpetual?
+Is one party required to deposit its source code into escrow with a third party?
+Is a party subject to obligations after the termination or expiration of a contract?
+Does a party have the right to audit the books, records, or physical locations of the counterparty?
+Is a party’s liability uncapped upon the breach of its obligation in the contract?
+Does the contract include a cap on liability upon the breach of a party’s obligation?
+What clauses would either award either party liquidated damages for breach?
+What is the duration of any warranty against defects or errors in technology, products, or services?
+What are the requirements for insurance that must be maintained?
+What sections describe the covenant not to sue?
+What clauses relate to third-party beneficiaries?
+What clauses specify the obligations regarding confidentiality of information?
+What provisions outline circumstances under which a party may be excused from performance due to force majeure events?
+Are there clauses that require one party to indemnify the other for losses arising from specific actions or omissions?
+What language governs the interpretation of the contract, and are there any clauses specifying translations or conflicts?
+Are there conditions under which either party can terminate the contract, and what are the required notice periods?
+What are the terms regarding payment amounts, due dates, and penalties for late payments?
+Are there clauses that specify how disputes will be resolved (arbitration, mediation, litigation) and the venue for such disputes?
+Are there procedures outlined for making changes or amendments to the contract?
+If any provision of the contract is found to be unenforceable, does the contract specify that the remaining provisions will continue to be valid?
+Is there a clause stating that the written contract represents the entire agreement between the parties?
