@@ -1,40 +1,34 @@
 {
     "0": [
         {
-            "text": "January 11, 2018",
-            "probability": 0.6632020579631547,
-            "start_logit": 8.352889060974121,
-            "end_logit": 8.580249786376953
+            "text": "_______day of , 20",
+            "probability": 0.7012554333150315,
+            "start_logit": 4.357641696929932,
+            "end_logit": 3.4737749099731445
         },
         {
-            "text": "Jan. 11, 2018",
-            "probability": 0.2985889645471488,
-            "start_logit": 7.858722686767578,
-            "end_logit": 8.27640438079834
+            "text": "_______day of , 20 by and between the SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION,",
+            "probability": 0.10286467530492356,
+            "start_logit": 4.357641696929932,
+            "end_logit": 1.5543169975280762
         },
         {
-            "text": "Jan. 11, 2018 Source: FREECOOK, S-1, 6/5/2018 By Company: /s/ Mitchell Vitalis Date: Jan. 11, 2018",
-            "probability": 0.03470816609642821,
-            "start_logit": 7.858722686767578,
-            "end_logit": 6.124311447143555
+            "text": "_______day of , 20 by and between the SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION, hereinafter called COMMISSION, and ________ ____, hereinafter called CONSULTANT for __________________ (services/project name).",
+            "probability": 0.09095709587185884,
+            "start_logit": 4.357641696929932,
+            "end_logit": 1.431290626525879
         },
         {
-            "text": "Date: Jan. 11, 2018",
-            "probability": 0.0025725122890337703,
-            "start_logit": 3.1045377254486084,
-            "end_logit": 8.27640438079834
-        },
-        {
-            "text": "January 11, 2018 by and between Natalija Tunevic, director of FreeCook (hereinafter referred to as \"Client\") and Mitchell Vitalis, director of Mitchell's Web Advance, PLC (hereinafter referred to as \"Company\"). 1. Website Design and Development. Client agrees to pay to Company the sum of $5,000 (the \"Contract Price\") to design and develop a website for Client (the \"Client Website\") in accordance with the accompanying Scope of Work, attached to this Agreement as Exhibit A. (a) Change Orders. Any changes to the Scope of Work following the execution of this Agreement requiring Additional Work must be submitted to and accepted by Company in writing as a \"Change Order\". The costs of any such changes shall be added to the Contract Price. Additional Work shall be defined as the addition or revision of pages, graphics, or other features, any text, graphic or page design or programming requiring more than two rounds of textual or graphical revisions, substantial revisions to text and/or content provided by Client, changes to elements which have been finalized, or significant changes in the Scope of Work. (b) Due Dates and Delays. Company will use its best efforts to deliver the Client Website in the time frame specified in the Scope of Work. Terms of the project: 12 weeks from February 8, 2018 to May 3, 2018.",
-            "probability": 0.0009250566374892664,
-            "start_logit": 8.352889060974121,
-            "end_logit": 2.005269765853882
+            "text": ", 20",
+            "probability": 0.0653054817715285,
+            "start_logit": 1.9838454723358154,
+            "end_logit": 3.4737749099731445
         },
         {
             "text": "",
-            "probability": 3.24246674522406e-06,
-            "start_logit": 2.491285800933838,
-            "end_logit": 2.2133524417877197
+            "probability": 0.03961731373665778,
+            "start_logit": 2.6913936138153076,
+            "end_logit": 2.2664170265197754
         }
     ]
 }

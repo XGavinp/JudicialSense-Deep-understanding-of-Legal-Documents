@@ -1,0 +1,49 @@
+NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement ("Agreement") is made on October 19, 2024, by and between ABC Ltd., having its registered office at 123, Silicon Valley, Bengaluru, Karnataka, India ("Disclosing Party"), and XYZ Pvt. Ltd., located at 456, Innovation Hub, Pune, Maharashtra, India ("Receiving Party").
+
+RECITALS
+
+WHEREAS, the Disclosing Party intends to disclose certain confidential and proprietary information to the Receiving Party for the purpose of evaluating a potential business relationship.
+
+NOW THEREFORE, in consideration of the mutual promises herein, the Parties agree as follows:
+
+AGREEMENT
+
+1. Definition of Confidential Information: Confidential Information includes all written, electronic, or oral information disclosed by the Disclosing Party.
+
+2. Effective Date: This Agreement is effective from October 19, 2024.
+
+3. Term: The term of this Agreement shall be three years, expiring on October 19, 2027.
+
+4. Governing Law: This Agreement shall be governed by the laws of India.
+
+5. Third Party Offers: If the Receiving Party receives a better offer from a third party, they must notify the Disclosing Party within 10 days.
+
+6. Non-Compete Clause: The Receiving Party shall not use the Confidential Information to compete against the Disclosing Party for the duration of this Agreement.
+
+7. Non-Solicitation: The Receiving Party agrees not to solicit or hire any employees of the Disclosing Party during the term of this Agreement.
+
+8. Exceptions: Confidential Information does not include information that is publicly known or becomes publicly known through no fault of the Receiving Party.
+
+9. Return of Materials: Upon termination, the Receiving Party agrees to return or destroy all materials containing Confidential Information.
+
+10. Indemnification: The Receiving Party agrees to indemnify the Disclosing Party for any unauthorized disclosure of Confidential Information.
+
+11. Survival: The obligations of confidentiality shall survive the termination of this Agreement.
+
+12. Dispute Resolution: Any disputes shall be resolved through arbitration under the Arbitration and Conciliation Act, 1996.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first above written.
+
+ABC Ltd.
+
+By: ___________________________________  
+Name: __________________________________  
+Title: ___________________________________
+
+XYZ Pvt. Ltd.
+
+By: ___________________________________  
+Name: __________________________________  
+Title: ___________________________________
