@@ -1,34 +1,40 @@
 {
     "0": [
         {
-            "text": "_______day of , 20",
-            "probability": 0.7012554333150315,
-            "start_logit": 4.357641696929932,
-            "end_logit": 3.4737749099731445
+            "text": "October 21, 2024",
+            "probability": 0.5066115973298019,
+            "start_logit": 8.143034934997559,
+            "end_logit": 7.124340534210205
         },
         {
-            "text": "_______day of , 20 by and between the SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION,",
-            "probability": 0.10286467530492356,
-            "start_logit": 4.357641696929932,
-            "end_logit": 1.5543169975280762
+            "text": "October 21, 2024 ,",
+            "probability": 0.4218925838222453,
+            "start_logit": 8.143034934997559,
+            "end_logit": 6.941346645355225
         },
         {
-            "text": "_______day of , 20 by and between the SANTA CRUZ COUNTY REGIONAL TRANSPORTATION COMMISSION, hereinafter called COMMISSION, and ________ ____, hereinafter called CONSULTANT for __________________ (services/project name).",
-            "probability": 0.09095709587185884,
-            "start_logit": 4.357641696929932,
-            "end_logit": 1.431290626525879
+            "text": "October 21, 2024 , by and between: \u00a5 ABC Technologies Pvt. Ltd. , a company incorporated under the laws of India , having its registered of \u00de ce at 3rd Floor, D-Wing, Tech Park, Hyderabad, Telangana, India (the \"Party A\"), and \u00a5 XYZ Innovations Ltd. , a company incorporated under the laws of India , having its principal of \u00de ce at Sector 15, Noida, Uttar Pradesh, India (the \"Party B\"). RECITALS WHEREAS, Party A and Party B desire to form a joint venture to collaborate on the development and marketing of innovative technology solutions ; NOW, THEREFORE, in consideration of the mutual covenants contained herein, the parties agree as follows: 1. Agreement and Effective Dates 1.1 This Agreement is executed on October 21, 2024 .",
+            "probability": 0.05338231483909141,
+            "start_logit": 8.143034934997559,
+            "end_logit": 4.874075412750244
         },
         {
-            "text": ", 20",
-            "probability": 0.0653054817715285,
-            "start_logit": 1.9838454723358154,
-            "end_logit": 3.4737749099731445
+            "text": "October 21, 2024 , by and between: \u00a5 ABC Technologies Pvt. Ltd. , a company incorporated under the laws of India , having its registered of \u00de ce at 3rd Floor, D-Wing, Tech Park, Hyderabad, Telangana, India (the \"Party A\"), and \u00a5 XYZ Innovations Ltd. , a company incorporated under the laws of India , having its principal of \u00de ce at Sector 15, Noida, Uttar Pradesh, India (the \"Party B\"). RECITALS WHEREAS, Party A and Party B desire to form a joint venture to collaborate on the development and marketing of innovative technology solutions ; NOW, THEREFORE, in consideration of the mutual covenants contained herein, the parties agree as follows: 1. Agreement and Effective Dates 1.1 This Agreement is executed on October 21, 2024",
+            "probability": 0.011660503080824123,
+            "start_logit": 8.143034934997559,
+            "end_logit": 3.3528032302856445
+        },
+        {
+            "text": "Joint Venture Agreement (\"Agreement\") is made and entered into as of October 21, 2024",
+            "probability": 0.006421272649534976,
+            "start_logit": 3.774906635284424,
+            "end_logit": 7.124340534210205
         },
         {
             "text": "",
-            "probability": 0.03961731373665778,
-            "start_logit": 2.6913936138153076,
-            "end_logit": 2.2664170265197754
+            "probability": 3.1728278502301426e-05,
+            "start_logit": 3.0394201278686523,
+            "end_logit": 2.549663782119751
         }
     ]
 }
