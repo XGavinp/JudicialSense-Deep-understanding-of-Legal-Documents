@@ -1,0 +1,2 @@
+flask_server/model_cache/models--deepset--minilm-uncased-squad2/blobs/* filter=lfs diff=lfs merge=lfs -text
+web_app/node_modules/@next/swc-darwin-arm64/* filter=lfs diff=lfs merge=lfs -text
