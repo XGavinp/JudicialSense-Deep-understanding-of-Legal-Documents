@@ -1,0 +1,394 @@
+/* ------------------------------
+   Global Reset & Base
+------------------------------ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(135deg, #c2e9fb, #e2fcfc);
+  color: #333;
+  line-height: 1.6;
+}
+
+/* ------------------------------
+   Layout Container
+------------------------------ */
+.layout-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* ------------------------------
+   Header & Navigation
+------------------------------ */
+.header {
+  background: linear-gradient(135deg, #243B55, #141E30);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 2000;
+  animation: fadeInDown 0.6s ease;
+}
+
+.header header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100px;
+  padding: 20px;
+  color: #fff;
+}
+
+.header header h1 {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 8px;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+}
+
+.header header nav {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.header header nav a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 6px 14px;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.header header nav a:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: scale(1.05);
+}
+
+/* ------------------------------
+   Main Container
+------------------------------ */
+main {
+  flex: 1;
+  max-width: 900px;
+  width: 100%;
+  margin: 80px auto 40px;
+  padding: 20px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 3px 15px rgba(0, 0, 0, 0.15);
+  animation: fadeInUp 0.7s ease-in-out;
+}
+
+main:hover {
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.contract-header {
+  background: linear-gradient(135deg, #14b8a6, #0ea5e9);
+  color: white;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: bold;
+  padding: 16px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+/* ------------------------------
+   File Upload
+------------------------------ */
+.file-upload {
+  text-align: center;
+  margin: 20px 0;
+  animation: fadeInUp 0.6s ease-in-out;
+}
+
+.file-input-label {
+  display: inline-block;
+  padding: 12px 24px;
+  background: linear-gradient(135deg, #22c55e, #16a34a);
+  color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  box-shadow: 0 4px 10px #22c55e50;
+}
+
+.file-input-label:hover {
+  transform: scale(1.05);
+}
+
+.file-input {
+  display: none;
+}
+
+.file-placeholder {
+  margin-left: 10px;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+/* ------------------------------
+   Document Viewer
+------------------------------ */
+.document-viewer {
+  margin: 20px auto;
+  max-width: 100%;
+}
+
+.pdf-viewer {
+  height: 350px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+
+.document-viewer h3 {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+/* ------------------------------
+   Response & Chat
+------------------------------ */
+.response-container,
+.chat-container {
+  background: #f9f9f9;
+  padding: 16px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  max-height: 320px;
+  overflow-y: auto;
+  transition: all 0.3s ease-in-out;
+  animation: fadeInUp 0.6s ease-in-out;
+  margin-top: 20px;
+}
+
+.response-container:hover,
+.chat-container:hover {
+  background: #f1f1f1;
+  transform: translateY(-3px);
+}
+
+/* Chat Bubbles */
+.user-question,
+.system-answer {
+  padding: 12px;
+  border-radius: 8px;
+  max-width: 75%;
+  margin-bottom: 6px;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+}
+
+.user-question {
+  background: linear-gradient(135deg, #0ea5e9, #3b82f6);
+  color: white;
+  text-align: right;
+  margin-left: auto;
+}
+
+.system-answer {
+  background: #f0f0f0;
+  border: 1px solid #ddd;
+}
+
+/* Chat Input */
+.chat-input {
+  display: flex;
+  margin-top: 16px;
+  gap: 10px;
+}
+
+.chat-input input {
+  flex: 1;
+  padding: 12px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  transition: all 0.3s ease-in-out;
+}
+
+.chat-input input:focus {
+  border-color: #0ea5e9;
+  box-shadow: 0 0 8px rgba(14, 165, 233, 0.5);
+}
+
+.chat-input button {
+  padding: 12px 20px;
+  background: linear-gradient(135deg, #0ea5e9, #3b82f6);
+  color: #fff;
+  border-radius: 6px;
+  cursor: pointer;
+  border: none;
+}
+
+/* ------------------------------
+   Sentiment Container
+------------------------------ */
+.sentiment-tag {
+  padding: 4px 8px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  margin-left: 8px;
+}
+
+.sentiment-positive {
+  background: #22c55e;
+  color: #fff;
+}
+
+.sentiment-neutral {
+  background: #facc15;
+  color: #333;
+}
+
+.sentiment-negative {
+  background: #ef4444;
+  color: #fff;
+}
+
+/* ------------------------------
+   Chat Tools (Search & Save Session)
+------------------------------ */
+.chat-tools {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.search-input {
+  flex: 1;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+.save-session-btn {
+  padding: 0.5rem 1rem;
+  background-color: #1e88e5;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.save-session-btn:hover {
+  background-color: #1565c0;
+}
+
+/* ------------------------------
+   Feedback Messages (Download/Save)
+------------------------------ */
+.feedback-message {
+  color: #00796b;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+/* ------------------------------
+   Download Q&A History
+------------------------------ */
+.download-history {
+  margin-bottom: 2rem;
+}
+
+.download-btn {
+  padding: 0.5rem 1rem;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.download-btn:hover {
+  background-color: #555;
+}
+
+/* ------------------------------
+   Highlight for Searched Terms
+------------------------------ */
+.highlight {
+  background-color: yellow;
+}
+
+/* ------------------------------
+   Footer
+------------------------------ */
+footer {
+  background: linear-gradient(135deg, #3c8dad, #2aa79b);
+  color: #fff;
+  text-align: center;
+  padding: 14px 0;
+  box-shadow: 0 -4px 10px rgba(0,0,0,0.2);
+}
+
+footer:hover {
+  background: linear-gradient(135deg, #2aa79b, #3c8dad);
+}
+
+/* ------------------------------
+   Animations
+------------------------------ */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse {
+  0% { opacity: 1; }
+  50% { opacity: 0.5; }
+  100% { opacity: 1; }
+}
+
+/* ------------------------------
+   Responsive
+------------------------------ */
+@media (max-width: 400px) {
+  .chat-input input {
+    font-size: 0.9rem;
+  }
+  
+  .chat-input button {
+    padding: 8px 12px;
+  }
+}
